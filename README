@@ -1,0 +1,8 @@
+Codes are in lib directory.
+dan_qa is the DAN implementation. Before using it, you have to modify get_data() and get_embedding() function in it, basically to specify where the data comes and the pre-trained fasttext model (or other embedding dictionary) you will use.
+fastText is no different than the official fastText.
+
+
+
+
+
